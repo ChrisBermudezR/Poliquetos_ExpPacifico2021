@@ -2,7 +2,7 @@
 [![Expedición Pacifico: Bocas de Sanquianga](/Imagenes_MD/Cabezote.png)](https://youtu.be/Rsuj0Ps-Ugk)
 
 <p align="center" width="100%">
-<img src = "/Imagenes_MD/Logos.png" width="650px" height="300px" style="float"/>
+<img src = "/Imagenes_MD/Logos.png" width="650px" height="450px" style="float"/>
 </p>
 
 # Diversidad, abundancia y distribución del ictioplancton y su relación con las condiciones oceanográficas y los períodos mareales en la subregión Sanquianga-Gorgona, frente al delta del río Patía
