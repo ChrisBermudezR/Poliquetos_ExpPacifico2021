@@ -27,8 +27,8 @@ Estimar la relación entre el ensamblaje de poliquetos con el tipo de sedimento 
 4.	Estimar la correlación entre los atributos ecológicos (Diversidad, riqueza, dominancia) y el ensamblaje de poliquetos con las características del sedimento en 18 estaciones de la subregión Sanquianga-Gorgona, Pacífico colombiano. 
 
 
-<p align="center" width="100%">
-    <img width="50%" src="/Imagenes_MD/Mapa.tif">
+<p align="center" width="120%">
+    <img width="50%" src="/Imagenes_MD/Mapa.png">
 </p>
 <p align="center" width="100%">
 <b>Figura 1</b>. Distribución de las estaciones de toma de muestras en el área de estudio. 
