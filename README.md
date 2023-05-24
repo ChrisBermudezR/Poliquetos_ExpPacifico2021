@@ -28,7 +28,7 @@ Estimar la relación entre el ensamblaje de poliquetos con el tipo de sedimento 
 
 
 <p align="center" width="100%">
-    <img width="50%" src="/Imagenes_MD/Mapa.png">
+    <img width="50%" src="/Imagenes_MD/Mapa.tif">
 </p>
 <p align="center" width="100%">
 <b>Figura 1</b>. Distribución de las estaciones de toma de muestras en el área de estudio. 
