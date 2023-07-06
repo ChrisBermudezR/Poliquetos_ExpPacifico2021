@@ -1,5 +1,8 @@
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> e3b1139abcabde835bf07732a5be340227f70fc6
 [![Expedición Pacifico: Bocas de Sanquianga](/Imagenes_MD/Cabezote.png)](https://youtu.be/Rsuj0Ps-Ugk)
 
 <p align="center" width="100%">
@@ -28,7 +31,11 @@ Estimar la relación entre el ensamblaje de poliquetos con el tipo de sedimento 
 4.	Estimar la correlación entre los atributos ecológicos (Diversidad, riqueza, dominancia) y el ensamblaje de poliquetos con las características del sedimento en 18 estaciones de la subregión Sanquianga-Gorgona, Pacífico colombiano. 
 
 
+<<<<<<< HEAD
 <p align="center" width="100%">
+=======
+<p align="center" width="120%">
+>>>>>>> e3b1139abcabde835bf07732a5be340227f70fc6
     <img width="50%" src="/Imagenes_MD/Mapa.png">
 </p>
 <p align="center" width="100%">
